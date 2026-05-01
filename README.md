@@ -1,4 +1,4 @@
-# ShopFlow — Full-Stack E-Commerce Platform
+# ShopFlow Full-Stack E-Commerce Platform
 
 A production-style e-commerce application built as a portfolio project. Features a product catalog, shopping cart, Stripe checkout, order history, and an admin dashboard.
 
